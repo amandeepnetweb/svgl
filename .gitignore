@@ -21,8 +21,6 @@ dist
 .DS_Store
 
 # Environment variables
-.env
-.env.*
 !.env.example
 
 # Vite files
@@ -32,3 +30,4 @@ src/figma/dist
 
 # Lychee files
 .lycheecache
+config.bat
