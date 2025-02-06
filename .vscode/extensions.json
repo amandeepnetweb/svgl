@@ -1,3 +1,7 @@
 {
-  "recommendations": ["esbenp.prettier-vscode", "dbaeumer.vscode-eslint", "svelte.svelte-vscode"]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
